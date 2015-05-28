@@ -1,0 +1,77 @@
+@font-face {
+	font-family: league gothic;
+	src: url(leaguegothic-regular-webfont.woff);
+}
+html, body{
+	font-family: league gothic;
+	border: 100%;
+	margin: 0;
+	padding:0;
+}
+
+body {
+	font: inherit;
+	vertical-align: baseline;
+	border: 0;
+	text-align: center;
+}
+
+html {
+	line-height: 1;
+}
+
+.slide-home {
+	background: linear-gradient(to bottom,#2b2b2b,#2b2b2b);
+  color: whitesmoke;
+}
+
+.slide-skills {
+	
+}
+
+.proj-img {
+	max-width: 820px;
+  margin: 0 auto;
+  display: block;
+  -moz-perspective: 900px;
+  -webkit-perspective: 900px;
+  perspective: 900px;
+  position: relative;
+  top: 50%;
+  
+}
+
+.slide-projects {
+	background: linear-gradient(to bottom,#2b2b2b,#2b2b2b);
+  color: whitesmoke;
+	
+}
+.contact {
+	
+}
+.home h1 {
+	font-size: 5.5em;
+	font-weight: 900;
+	font-family: league gothic;
+	line-height: 1.2em;
+	letter-spacing: -0.02em;
+  text-rendering: optimizeLegibility;
+}
+.proj-img {
+	/*width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;*/
+	width: 100%;
+	z-index: 0;
+}
+
+ #main-pic{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
