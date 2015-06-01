@@ -82,10 +82,11 @@ html {
 }
 
  #main-pic{
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
+	  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 187px;
+  padding: 1%;
+  -moz-border-radius: 150px;
 }
 
