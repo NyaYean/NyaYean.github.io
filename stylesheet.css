@@ -30,8 +30,36 @@ html {
   color: whitesmoke;
 }
 
+.main-description {
+	 margin-right: 15%;
+  margin-left: 15%;
+}
+
+
 .slide-skills {
 	
+}
+
+#js-logo {
+	height: 100px;
+  width: 100px;
+  margin-right: 75%;
+
+}
+
+#node-logo {
+	width: 180px;
+  margin-left: 21%;
+  margin-right: 45%;
+  margin-top: -10%;
+}
+
+#html-css-logo {
+	 position: relative;
+  margin-left: 18%;
+  margin-right: 9%;
+  margin-top: -8%;
+  width: 179px;
 }
 
 .proj-img {
